@@ -198,7 +198,7 @@ Mental_Health_Chatbot_Application is an AI-powered support tool that provides em
 >>>>>>> 8ede3d8d529767bfcd6962c2fa84a697ab84e150
 
 OUTPUT:
-<img width="1206" height="2622" alt="APP " src="https://github.com/user-attachments/assets/3082c295-f0d5-4a31-89e1-f1453fc5fff8" />
+<img width="400" height="622" alt="APP " src="https://github.com/user-attachments/assets/3082c295-f0d5-4a31-89e1-f1453fc5fff8" />
 
 Home Page:
 <img width="1206" height="2622" alt="Home page" src="https://github.com/user-attachments/assets/8349f8e9-5e76-4268-bef2-c0560b81700b" />
