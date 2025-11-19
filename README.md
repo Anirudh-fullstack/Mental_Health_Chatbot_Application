@@ -197,6 +197,16 @@ supabase functions serve
 Mental_Health_Chatbot_Application is an AI-powered support tool that provides empathetic, non-judgmental conversations to help users manage stress, anxiety, and emotional challenges. It offers coping tips, mood support, and guidance while prioritizing safety and encouraging professional help when needed.
 >>>>>>> 8ede3d8d529767bfcd6962c2fa84a697ab84e150
 
+OUTPUT:
+<img width="1206" height="2622" alt="APP " src="https://github.com/user-attachments/assets/3082c295-f0d5-4a31-89e1-f1453fc5fff8" />
 
-<img width="1206" height="2622" alt="Conversation page" src="https://github.com/user-attachments/assets/0fb8e4ba-d0c1-4798-9712-92373288a9bb" />
+Home Page:
+<img width="1206" height="2622" alt="Home page" src="https://github.com/user-attachments/assets/8349f8e9-5e76-4268-bef2-c0560b81700b" />
+
+Conversatio Page:
+<img width="1206" height="2622" alt="Conversation page" src="https://github.com/user-attachments/assets/f936502c-88e6-4e10-ba2e-81d7b4f079b6" />
+
+Chats Page:
+<img width="1206" height="2622" alt="Chats page" src="https://github.com/user-attachments/assets/262862fc-881a-4324-8651-7499e41ce294" />
+
 
