@@ -201,12 +201,12 @@ OUTPUT:
 <img width="400" height="622" alt="APP " src="https://github.com/user-attachments/assets/3082c295-f0d5-4a31-89e1-f1453fc5fff8" />
 
 Home Page:
-<img width="1206" height="2622" alt="Home page" src="https://github.com/user-attachments/assets/8349f8e9-5e76-4268-bef2-c0560b81700b" />
+<img width="400" height="622" alt="Home page" src="https://github.com/user-attachments/assets/8349f8e9-5e76-4268-bef2-c0560b81700b" />
 
-Conversatio Page:
-<img width="1206" height="2622" alt="Conversation page" src="https://github.com/user-attachments/assets/f936502c-88e6-4e10-ba2e-81d7b4f079b6" />
+Conversation Page:
+<img width="400" height="622" alt="Conversation page" src="https://github.com/user-attachments/assets/f936502c-88e6-4e10-ba2e-81d7b4f079b6" />
 
 Chats Page:
-<img width="1206" height="2622" alt="Chats page" src="https://github.com/user-attachments/assets/262862fc-881a-4324-8651-7499e41ce294" />
+<img width="400" height="622" alt="Chats page" src="https://github.com/user-attachments/assets/262862fc-881a-4324-8651-7499e41ce294" />
 
 
