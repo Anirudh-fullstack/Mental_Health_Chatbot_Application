@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# Welcome to your Lovable project
-
-## Project info
-
-**URL**: https://lovable.dev/projects/4dab7d33-ed84-48f4-9fec-b2589e32779c
-
 # Mindful Chat Interface
 
 A web + mobile chat interface project that integrates with Supabase and a serverless function (Google Gemini) for a compassionate mental-health assistant.
