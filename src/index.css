@@ -1,0 +1,131 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Calming mental health color palette */
+    --background: 210 20% 98%;
+    --foreground: 215 25% 27%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 215 25% 27%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 215 25% 27%;
+
+    /* Calming teal/blue primary */
+    --primary: 195 75% 45%;
+    --primary-foreground: 0 0% 100%;
+
+    /* Soft secondary surface */
+    --secondary: 210 30% 96%;
+    --secondary-foreground: 215 25% 27%;
+
+    /* Muted backgrounds */
+    --muted: 210 25% 94%;
+    --muted-foreground: 215 15% 50%;
+
+    /* Gentle accent */
+    --accent: 180 65% 55%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 70% 50%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 210 20% 88%;
+    --input: 210 20% 92%;
+    --ring: 195 75% 45%;
+
+    --radius: 1rem;
+    
+    /* Custom mental health theme */
+    --user-bubble: 195 75% 45%;
+    --user-bubble-foreground: 0 0% 100%;
+    --bot-bubble: 0 0% 100%;
+    --bot-bubble-foreground: 215 25% 27%;
+    --chat-background: 210 30% 97%;
+    
+    /* Animations */
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    
+    /* Shadows */
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.05);
+    --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.08);
+    --shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.1);
+
+    --sidebar-background: 0 0% 98%;
+
+    --sidebar-foreground: 240 5.3% 26.1%;
+
+    --sidebar-primary: 240 5.9% 10%;
+
+    --sidebar-primary-foreground: 0 0% 98%;
+
+    --sidebar-accent: 240 4.8% 95.9%;
+
+    --sidebar-accent-foreground: 240 5.9% 10%;
+
+    --sidebar-border: 220 13% 91%;
+
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 215 25% 10%;
+    --foreground: 210 20% 95%;
+
+    --card: 215 25% 13%;
+    --card-foreground: 210 20% 95%;
+
+    --popover: 215 25% 13%;
+    --popover-foreground: 210 20% 95%;
+
+    --primary: 195 75% 50%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 215 25% 16%;
+    --secondary-foreground: 210 20% 95%;
+
+    --muted: 215 25% 18%;
+    --muted-foreground: 215 15% 65%;
+
+    --accent: 180 65% 60%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 70% 55%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 215 25% 20%;
+    --input: 215 25% 18%;
+    --ring: 195 75% 50%;
+    
+    --user-bubble: 195 75% 50%;
+    --user-bubble-foreground: 0 0% 100%;
+    --bot-bubble: 215 25% 16%;
+    --bot-bubble-foreground: 210 20% 95%;
+    --chat-background: 215 25% 12%;
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
